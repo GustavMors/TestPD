@@ -1,0 +1,198 @@
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.exe
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.deps.json
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.runtimeconfig.json
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.pdb
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.AssemblyReference.cache
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.AssemblyInfoInputs.cache
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.AssemblyInfo.cs
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\scopedcss\bundle\TrabalhoAPI.styles.css
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.CopyComplete
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\refint\TrabalhoAPI.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.pdb
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.genruntimeconfig.cache
+C:\Users\Lucca\Desktop\Trabalho Telecon\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\ref\TrabalhoAPI.dll
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.exe
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.deps.json
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.runtimeconfig.json
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.dll
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.pdb
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.AssemblyReference.cache
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.AssemblyInfoInputs.cache
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.AssemblyInfo.cs
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.CoreCompileInputs.cache
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\scopedcss\bundle\TrabalhoAPI.styles.css
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.CopyComplete
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.dll
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\refint\TrabalhoAPI.dll
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.pdb
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.genruntimeconfig.cache
+C:\Users\jinan\OneDrive\Documentos\GitHub\RepositorioTrabalhoM2\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\ref\TrabalhoAPI.dll
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.exe
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.deps.json
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.runtimeconfig.json
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.dll
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.pdb
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.AssemblyReference.cache
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.AssemblyInfoInputs.cache
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.AssemblyInfo.cs
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.CoreCompileInputs.cache
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\scopedcss\bundle\TrabalhoAPI.styles.css
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.CopyComplete
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.dll
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\refint\TrabalhoAPI.dll
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.pdb
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.genruntimeconfig.cache
+C:\Users\fabricio.costa\Desktop\trabalho grupo b\FrontEndProjeto1\Projeto +praTI\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\ref\TrabalhoAPI.dll
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.exe
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.deps.json
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.runtimeconfig.json
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.dll
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.pdb
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.AssemblyReference.cache
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.AssemblyInfoInputs.cache
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.AssemblyInfo.cs
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.CoreCompileInputs.cache
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\scopedcss\bundle\TrabalhoAPI.styles.css
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.CopyComplete
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.dll
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\refint\TrabalhoAPI.dll
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.pdb
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.genruntimeconfig.cache
+C:\Users\jinan\OneDrive\Área de Trabalho\trabalho-modulo-3\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\ref\TrabalhoAPI.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.exe
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.deps.json
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.runtimeconfig.json
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.pdb
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.AssemblyReference.cache
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.AssemblyInfoInputs.cache
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.AssemblyInfo.cs
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\scopedcss\bundle\TrabalhoAPI.styles.css
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.CopyComplete
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\refint\TrabalhoAPI.dll
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.pdb
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.genruntimeconfig.cache
+C:\Users\Lucca\Desktop\Trabalho Telecon\Trabalho-modulo-3\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\ref\TrabalhoAPI.dll
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.exe
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.deps.json
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.runtimeconfig.json
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.dll
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\TrabalhoAPI.pdb
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.AssemblyReference.cache
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.AssemblyInfoInputs.cache
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.AssemblyInfo.cs
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\scopedcss\bundle\TrabalhoAPI.styles.css
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.csproj.CopyComplete
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.dll
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\refint\TrabalhoAPI.dll
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.pdb
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\TrabalhoAPI.genruntimeconfig.cache
+C:\Users\Lucca\Desktop\TeleconTrabalhoFinal\GrupoCTrabalhoFinal\TrabalhoAPI\TrabalhoAPI\obj\Debug\net6.0\ref\TrabalhoAPI.dll
